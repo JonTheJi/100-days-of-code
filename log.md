@@ -2,7 +2,7 @@
 
 ### Day 0: September 24, 2018
 
-**Today's Progress**: Set up an SQL environment. Use Postgres as my RDMS and PgAdminIII as my platform. Also, finished a leetCode problem 23. Merge K sorted List using Java.
+**Today's Progress**: Set up an SQL environment. Use Postgres as my RDMS and PgAdminIII as my platform. Also, finished leetCode problem 23. Merge K sorted List using Java.
 
 **Thoughts:** SQL is pretty cool, I have more interest in it now. 
 
