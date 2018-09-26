@@ -10,7 +10,7 @@
 
 ### Day 2: September 25, 2018
 
-**Today's Progress**: Learned more about SQL such as the SELECT command(function). Also, finished leetCode problem 33. Search in Rotated Sorted Array using java. (Took me super long...)
+**Today's Progress**: Learned more about SQL such as how to use the SELECT command(function). Also, finished leetCode problem 33. Search in Rotated Sorted Array using java. (Took me super long...)
 
 **Thoughts:** Remember index out of bound problem when using recursion to modify the mid *index. Make sure your base case cover it.
 
