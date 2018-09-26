@@ -8,7 +8,7 @@
 
 **Link to work:** <None. Only screen shot>
 
-### Day 2: September 24, 2018
+### Day 2: September 25, 2018
 
 **Today's Progress**: Learned more about SQL such as the SELECT command(function). Also, finished leetCode problem 33. Search in Rotated Sorted Array using java. (Took me super long...)
 
