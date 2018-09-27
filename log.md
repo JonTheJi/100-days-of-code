@@ -15,3 +15,11 @@
 **Thoughts:** Remember index out of bound problem when using recursion to modify the mid *index. Make sure your base case cover it.
 
 **Link to work:** <None. Only screen shot>
+
+### Day 3: September 26, 2018
+
+**Today's Progress**: Finished leetCode problem 81. Search in Rotated Sorted Array II (I learned some strategy from this question!)
+
+**Thoughts:** Use (condition) and !(condition) for Binary search so you can narrow down the possibilities that make your code crash (know what cause errors) 
+
+**Link to work:** <None. Only screen shot>
