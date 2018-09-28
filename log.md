@@ -23,3 +23,9 @@
 **Thoughts:** Use (condition) and !(condition) for Binary search so you can narrow down the possibilities that make your code crash (know what cause errors) 
 
 **Link to work:** <None. Only screen shot>
+
+### Day 4: September 27, 2018
+
+**Today's Progress**: Finished leetCode problem 56. Merge Intervals. Learning how to set up myql server on Linux. (Still Failing lol)
+
+**Link to work:** <None. Only screen shot>
