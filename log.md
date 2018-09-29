@@ -29,3 +29,9 @@
 **Today's Progress**: Finished leetCode problem 56. Merge Intervals. Learning how to set up myql server on Linux. (Still Failing lol)
 
 **Link to work:** <None. Only screen shot>
+
+### Day 5: September 28, 2018
+
+**Today's Progress**: Finished leetCode problem 121. Best Time to Buy and Sell Stock using Java (really easy)
+
+**Link to work:** <None. Only screen shot>
