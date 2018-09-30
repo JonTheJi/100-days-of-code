@@ -35,3 +35,10 @@
 **Today's Progress**: Finished leetCode problem 121. Best Time to Buy and Sell Stock using Java (really easy)
 
 **Link to work:** <None. Only screen shot>
+
+### Day 6: September 29, 2018
+
+**Today's Progress**: Finished leetCode problem 91. Decode Ways in Java. (Dynamic programming, back-tracking). Also, learned about prepared statement, and (DELETE, UPDATE) SQL statements. 
+
+**Link to work:** <None. Only screen shot>
+
