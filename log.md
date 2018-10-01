@@ -44,7 +44,7 @@
 
 ### Day 7: September 30, 2018
 
-**Today's Progress**: Finished leetCode problem 46. Permutaions in Java. Back-trackign algorithem. Made a java class to send api call to some random server. 
+**Today's Progress**: Finished leetCode problem 46. Permutaions in Java. Back-trackign algorithem. Made a java class to send api call to a random server. 
 
 **Link to work:** <None. Only screen shot>
 
