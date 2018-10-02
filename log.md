@@ -48,3 +48,8 @@
 
 **Link to work:** <None. Only screen shot>
 
+### Day 8: October 1, 2018
+
+**Today's Progress**: Doing a Java project that makes an Http request to jobs-GitHub Api. It was pretty cool that it actually works! and now I can do some manipulation on those datas.
+
+**Link to work:** <None. Only screen shot>
