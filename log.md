@@ -52,4 +52,8 @@
 
 **Today's Progress**: Doing a Java project that makes an Http request to jobs-GitHub Api. It was pretty cool that it actually works! and now I can do some manipulation on those datas.
 
+### Day 9: October 2, 2018
+
+**Today's Progress**: Finished the api project, and did the Leetcode 76. Minimum Window Substring using Java. 
+Reall need to work on my coding skill. <Need to be bug-free..>
 **Link to work:** <None. Only screen shot>
