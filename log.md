@@ -57,3 +57,9 @@
 **Today's Progress**: Finished the api project, and did the Leetcode 76. Minimum Window Substring using Java. 
 Reall need to work on my coding skill. <Need to be bug-free..>
 **Link to work:** <None. Only screen shot>
+  
+### Day 10: October 7, 2018
+
+**Today's Progress**: Finished 6 leetcode problems. Have been working on one super hard problem, and I have been wokring on that problem until today...(Finally finished it. now is time to get back on track)
+
+  
