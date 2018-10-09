@@ -61,5 +61,9 @@ Reall need to work on my coding skill. <Need to be bug-free..>
 ### Day 10: October 7, 2018
 
 **Today's Progress**: Finished 6 leetcode problems. Have been working on one super hard problem, and I have been wokring on that problem until today...(Finally finished it. now is time to get back on track)
+  
+### Day 11: October 8, 2018
+
+**Today's Progress**: Finished 7 leetcode problems, and had a coding interview...
 
   
